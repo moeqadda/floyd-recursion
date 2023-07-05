@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#basic performance comparison
 
 import sys
 import time
