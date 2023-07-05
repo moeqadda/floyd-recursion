@@ -11,7 +11,7 @@ MAX_LENGTH = len(graph[0])
 
 def floyd(distance):
     """
-    A simple implementation of Floyd's algorithm
+    A simple implementation of Floyd's algorithm.
     """
     for intermediate in range(MAX_LENGTH):
         for start_node in range(MAX_LENGTH):
