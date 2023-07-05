@@ -22,7 +22,7 @@ def shortest_path(start, end, intermediate, distance):
         return distance[start][end]
 
     # Return the minimum distance between two paths:
-    # - The path without the current intermediate node
+    # - The path without the current intermediate node.
     # - The path with the current intermediate node
     return min(
         shortest_path(start, end, intermediate - 1, distance),
