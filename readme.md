@@ -13,7 +13,7 @@ You should see a similar output ```[[0, 7, 12, 8], [9223372036854775807, 0, 5, 7
 
 ## Testing
 
-You may find the testing script inside the testing folder in the repository. 
+You may find the testing script inside the testing folder in the repository. The tests were ran individually.
 
 ## Performance Comparison 
 
