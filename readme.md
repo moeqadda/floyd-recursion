@@ -15,6 +15,10 @@ You should see a similar output ```[[0, 7, 12, 8], [9223372036854775807, 0, 5, 7
 
 You may find the testing script inside the testing folder in the repository. 
 
+## Performance Comparison 
+
+You may find a code that compares the performance between the recursive and imperative application methods of this algorithm. This is located in the testing folder.
+
 ## Contributing
 
 Given my developing knowledge of this field, feedback and contributions to this project are welcome! If you find any issues or have suggestions for improvements, please feel free to contact me.
