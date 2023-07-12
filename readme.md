@@ -27,3 +27,31 @@ Given my developing knowledge of this field, feedback and contributions to this 
 
 This project is licensed under the Apache 2.o license.
 Feel free to use and modify the code according to the terms of the license.
+
+## Directory Tree
+``` floyd-recursion
+
+├── src
+
+│   ├── imperative_floyd.py
+
+│   └── recursive_floyd.py
+
+├── testing
+
+│   ├── imperative_floyd.py
+
+│   ├── performance_comparison.py
+
+│   ├── recursive_floyd.py
+
+│   └── testing_floyd.py
+
+├── license.txt
+
+├── readme.md
+
+├── requirements.txt
+
+└── setup.py
+```
